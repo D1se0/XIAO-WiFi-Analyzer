@@ -26,10 +26,6 @@ Existen **dos versiones** del firmware en este repositorio:
 
 ## 📸 Galería
 
-<!--
-Sube tus fotos a media/ con los nombres exactos indicados en media/README.md,
-y descomenta estas líneas (quita los <!-- y --> de alrededor):
-
 <p align="center">
   <img src="media/montaje-completo.jpg" width="45%" alt="Montaje completo">
   <img src="media/pantalla-funcionando.jpg" width="45%" alt="Pantalla en funcionamiento">
@@ -39,7 +35,6 @@ y descomenta estas líneas (quita los <!-- y --> de alrededor):
   <img src="media/round-display-sola.jpg" width="30%" alt="Round Display">
   <img src="media/dashboard-movil.jpg" width="30%" alt="Dashboard en el móvil">
 </p>
--->
 
 ---
 
