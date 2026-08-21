@@ -4,7 +4,7 @@
 
 | Componente | Notas |
 |---|---|
-| **Seeed Studio XIAO ESP32-C5** | El chip: RISC-V, Wi-Fi 6 dual-band (2.4GHz + 5GHz), Bluetooth 5 LE, 802.15.4. [Página oficial](https://www.seeedstudio.com/Seeed-Studio-XIAO-ESP32C5-p-6392.html) · [Wiki](https://wiki.seeedstudio.com/xiao_esp32c5_getting_started/) |
+| **Seeed Studio XIAO ESP32-C5** | El chip: RISC-V, Wi-Fi 6 dual-band (2.4GHz + 5GHz), Bluetooth 5 LE, 802.15.4. [Página oficial](https://www.seeedstudio.com/Seeed-Studio-XIAO-ESP32C5-p-6609.html?sensecap_affiliate=w2q4ssn) · [Wiki](https://wiki.seeedstudio.com/xiao_esp32c5_getting_started/) |
 | **Antena externa (incluida en la caja)** | ⚠️ **Crítico**. Sin ella conectada al conector U.FL, el alcance de escaneo es prácticamente inútil (solo se detectan 1-2 redes con señal pésima). Ver aviso más abajo. |
 | **Cable USB-C** | Para alimentar, programar y depurar por Serial. Usa un cable de datos real, no uno "solo carga". |
 | **Ordenador con Windows/macOS/Linux** | Para Arduino IDE. No hace falta después de cargar el firmware. |
@@ -13,7 +13,7 @@
 
 | Componente | Notas |
 |---|---|
-| **Round Display for XIAO (1.28")** | Pantalla circular táctil, 240×240px, controlador GC9A01 + táctil capacitivo CHSC6x. [Wiki oficial](https://wiki.seeedstudio.com/get_start_round_display/) |
+| **Round Display for XIAO (1.28")** | Pantalla circular táctil, 240×240px, controlador GC9A01 + táctil capacitivo CHSC6x. [Comprar](https://www.seeedstudio.com/1-28-Round-Touch-Display-for-Seeed-Studio-XIAO-ESP32.html?sensecap_affiliate=w2q4ssn) · [Wiki oficial](https://wiki.seeedstudio.com/get_start_round_display/) |
 | Cinta desoldadora o desoldador | Solo si vas a soldar tú mismo los pines — ver aviso de soldadura abajo. |
 | Multímetro (opcional pero recomendable) | Útil para comprobar continuidad si algo no responde tras soldar. |
 

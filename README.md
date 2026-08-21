@@ -13,6 +13,36 @@ Existen **dos versiones** del firmware en este repositorio:
 
 ---
 
+## 🛒 Dónde comprar el hardware
+
+| Componente | Enlace |
+|---|---|
+| Seeed Studio XIAO ESP32-C5 | [Comprar en Seeed Studio](https://www.seeedstudio.com/Seeed-Studio-XIAO-ESP32C5-p-6609.html?sensecap_affiliate=w2q4ssn) |
+| Round Touch Display for XIAO (1.28") | [Comprar en Seeed Studio](https://www.seeedstudio.com/1-28-Round-Touch-Display-for-Seeed-Studio-XIAO-ESP32.html?sensecap_affiliate=w2q4ssn) |
+
+> Estos son enlaces de afiliado — comprar a través de ellos no te cuesta nada extra y ayuda a mantener este proyecto y el canal. Si prefieres no usarlos, busca los mismos productos directamente en [seeedstudio.com](https://www.seeedstudio.com).
+
+---
+
+## 📸 Galería
+
+<!--
+Sube tus fotos a media/ con los nombres exactos indicados en media/README.md,
+y descomenta estas líneas (quita los <!-- y --> de alrededor):
+
+<p align="center">
+  <img src="media/montaje-completo.jpg" width="45%" alt="Montaje completo">
+  <img src="media/pantalla-funcionando.jpg" width="45%" alt="Pantalla en funcionamiento">
+</p>
+<p align="center">
+  <img src="media/xiao-esp32c5-sola.jpg" width="30%" alt="XIAO ESP32-C5">
+  <img src="media/round-display-sola.jpg" width="30%" alt="Round Display">
+  <img src="media/dashboard-movil.jpg" width="30%" alt="Dashboard en el móvil">
+</p>
+-->
+
+---
+
 ## Índice de la documentación
 
 1. **[Requisitos de hardware](docs/01-requisitos-hardware.md)** — qué comprar, antena, pines, alimentación.
