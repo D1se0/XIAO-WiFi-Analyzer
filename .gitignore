@@ -1,0 +1,21 @@
+# Arduino IDE
+*.hex
+*.bin
+*.elf
+*.map
+build/
+.vscode/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores
+*.swp
+*~
+
+# Archivos temporales de compilación de Arduino CLI
+**/build/
+**/*.o
+**/*.d
